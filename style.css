@@ -68,6 +68,7 @@ img{
 .main2 .container2:hover{
     background-color:  hsl(75, 94%, 57%);
     cursor:pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 .container3{
     padding: 15px;
@@ -81,6 +82,7 @@ img{
 .main2 .container3:hover{
     background-color:  hsl(75, 94%, 57%);
     cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 .container4{
     padding: 15px;
@@ -94,6 +96,7 @@ img{
 .main2 .container4:hover{
     background-color:  hsl(75, 94%, 57%);
     cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 .container5{
     padding: 15px;
@@ -107,6 +110,7 @@ img{
 .main2 .container5:hover{
     background-color:  hsl(75, 94%, 57%);
     cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 .container6{
     padding: 15px;
@@ -120,6 +124,7 @@ img{
 .main2 .container6:hover{
     background-color:  hsl(75, 94%, 57%);
     cursor:pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 @media (max-width:600px){
